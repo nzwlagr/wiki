@@ -1,4 +1,4 @@
-<!-- TITLE: Map -->
-<!-- SUBTITLE: A quick summary of Map -->
 
-# Navigator
+```python
+print("Hello")
+```
